@@ -5,8 +5,6 @@ import javax.swing.border.EmptyBorder;
 
 public class Practica_01 {
     public static void main(String[] args) {
-
-
         Marco m = new Marco();
         m.setVisible(true);
 
