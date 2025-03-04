@@ -11,6 +11,7 @@ public class Main {
         Marco marco = new Marco();
         marco.setVisible(true);
         marco.setLocationRelativeTo(null);
+        marco.setResizable(false);
     }
 }
 class Marco extends JFrame {
