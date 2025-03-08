@@ -19,3 +19,8 @@ Bienvenido a este repositorio, donde estaré desarrollando una extensión de las
 
 ---
 📌 **Autor:** Inaki Sobera
+
+## 📜 Licencia
+
+Este proyecto está licenciado bajo los términos de la **GNU General Public License v3.0**.  
+Para más información, visita [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.html).
