@@ -1,0 +1,6 @@
+Nombre: José Luis Fecha: 2025-03-10 Asistencia: asistio
+Nombre: María Guadalupe Fecha: 2025-03-10 Asistencia: falto
+Nombre: José Luis Fecha: 2025-03-10 Asistencia: asistio
+Nombre: José Luis Fecha: 2025-03-10 Asistencia: asistio
+Nombre: María Guadalupe Fecha: 2025-03-10 Asistencia: asistio
+Nombre: Guadalupe Fecha: 2025-03-10 Asistencia: falto
