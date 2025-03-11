@@ -48,7 +48,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/inaki/OneDrive/Documentos/Practicas_Java/Practicas/Practica-6",
+    "last_opened_file_path": "C:/Users/inaki/OneDrive/Documentos/Practicas_Java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -151,6 +151,7 @@
       <workItem from="1741065776391" duration="61000" />
       <workItem from="1741507746146" duration="18000" />
       <workItem from="1741585498318" duration="76000" />
+      <workItem from="1741671095634" duration="20000" />
     </task>
     <servers />
   </component>
