@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="openjfx-23.0.2_windows-x64_bin-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Practicas/JavaFx/openjfx-23.0.2_windows-x64_bin-sdk.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
