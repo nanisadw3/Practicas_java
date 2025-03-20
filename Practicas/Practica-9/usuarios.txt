@@ -1,0 +1,2 @@
+inaki,123456,Thu Mar 06 00:00:00 CST 2003
+inaki1,123456,Thu Mar 06 00:00:00 CST 2003
